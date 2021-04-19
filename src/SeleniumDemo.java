@@ -7,5 +7,6 @@ public class SeleniumDemo {
 		System.out.println("Web automation1");
 		System.out.println("Web automation2");
 		System.out.println("Web automation3");
+	
 	}
 }
